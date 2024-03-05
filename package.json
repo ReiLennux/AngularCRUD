@@ -1,0 +1,19 @@
+{
+  "name": "v0.1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./app/app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ReiLennux/AngularCRUD.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ReiLennux/AngularCRUD/issues"
+  },
+  "homepage": "https://github.com/ReiLennux/AngularCRUD#readme"
+}
